@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelApp", "PixelApp\PixelApp.csproj", "{8EC7E844-67BC-4322-9384-99E9FD4A29EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelAppTest", "PixelAppTest\PixelAppTest.csproj", "{14094BB9-303D-4ACD-9226-F8C9D6B829B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EC7E844-67BC-4322-9384-99E9FD4A29EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC7E844-67BC-4322-9384-99E9FD4A29EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC7E844-67BC-4322-9384-99E9FD4A29EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC7E844-67BC-4322-9384-99E9FD4A29EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14094BB9-303D-4ACD-9226-F8C9D6B829B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14094BB9-303D-4ACD-9226-F8C9D6B829B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14094BB9-303D-4ACD-9226-F8C9D6B829B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14094BB9-303D-4ACD-9226-F8C9D6B829B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C787F3AE-3A10-4F98-A668-BAE5A4ECEB85}
+	EndGlobalSection
+EndGlobal
